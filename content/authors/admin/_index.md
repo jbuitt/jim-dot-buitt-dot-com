@@ -14,7 +14,7 @@ organizations:
     url: https://www.assurant.com/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My interests include open-source software, managing his home testing lab, and meteorology.
 
 # Interests to show in About widget
 interests:
@@ -63,4 +63,4 @@ email: 'jim.buitt@gmail.com'
 highlight_name: true
 ---
 
-Jim Buitt is currenty a Senior DevOps Engineer at Assurant. He has over 20 years in the IT industry and has a strong IT background. His interests include open-source software, managing his home testing lab, and meteorology. He maintains the website WxNotify, which is a free severe weather alerting service.
+Jim Buitt is currenty a Senior DevOps Engineer at Assurant. He has 20+ years in the IT industry and a strong Linux Administration background. His interests include open-source software, managing his home testing lab, and meteorology. He maintains the website WxNotify, which is a free severe weather alerting service.
