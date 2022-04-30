@@ -21,7 +21,7 @@ interests:
   - Linux Server Administration
   - Virtualization and Containerization
   - Self-hosting on Home Lab
-  - Weather
+  - Meteorology
 
 # Education to show in About widget
 education:
@@ -63,4 +63,4 @@ email: 'jim.buitt@gmail.com'
 highlight_name: true
 ---
 
-Jim Buitt is currenty a Senior DevOps Engineer at Assurant. He has 20+ years in the IT industry and a strong Linux Administration background. He also maintains the website WxNotify, which is a free severe weather alerting service.
+Jim Buitt is currenty a Lead Senior DevOps Engineer at Assurant. He has 20+ years in the IT industry and a strong Linux Administration background. He also maintains the website WxNotify, which is a free severe weather alerting service.
