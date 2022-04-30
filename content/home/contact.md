@@ -25,18 +25,18 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: jim.buitt@gmail.com
-  phone: 872-395-3624
-  address:
-    street: ''
-    city: Park Ridge
-    region: IL
-    postcode: '60068'
-    country: United States
-    country_code: US
-  coordinates:
-    latitude: '37.4275'
-    longitude: '-122.1697'
+  # email: ''
+  # phone: ''
+  # address:
+  #   street: ''
+  #   city: ''
+  #   region: ''
+  #   postcode: ''
+  #   country: United States
+  #   country_code: US
+  # coordinates:
+  #   latitude: '37.4275'
+  #   longitude: '-122.1697'
   directions: ''
   # office_hours:
   #   - 'Monday 10:00 to 13:00'
