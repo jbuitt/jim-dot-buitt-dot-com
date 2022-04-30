@@ -27,8 +27,12 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Deep Learning
-      tag: Deep Learning
+    - name: DevOps
+      tag: DevOps
+    - name: Linux
+      tag: Linux
+    - name: Weather
+      tag: Weather
     - name: Other
       tag: Demo
 
