@@ -20,6 +20,7 @@ bio: My interests include open-source software, managing his home testing lab, a
 interests:
   - Linux Server Administration
   - Virtualization and Containerization
+  - Automation
   - Self-hosting on Home Lab
   - Meteorology
 
@@ -28,7 +29,7 @@ education:
   courses:
     - course: Bachelor in Computer Science
       institution: Southern Illinois University Carbondale
-      year: 1999
+      year: ''
 
 
 # Social/Academic Networking
@@ -63,4 +64,4 @@ email: 'jim.buitt@gmail.com'
 highlight_name: true
 ---
 
-Jim Buitt is currenty a Lead Senior DevOps Engineer at Assurant. He has 20+ years in the IT industry and a strong Linux Administration background. He also maintains the website WxNotify, which is a free severe weather alerting service.
+Jim Buitt is currenty a Lead Senior DevOps Engineer at Assurant. He has 20+ years in the IT industry and a strong DevOps and Linux Administration background. He also maintains the website WxNotify, which is a free severe weather alerting service.
