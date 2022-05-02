@@ -31,7 +31,7 @@ feature:
   - description: SSL/TLS, Lets Encrypt, VPNs, SSH, Firewalls
     icon: lock
     icon_pack: fas
-    name: Security
+    name: Security Tools
   - description: EC2, S3, API Gateway, VPC, Lambda, etc.
     icon: aws
     icon_pack: fab
@@ -47,7 +47,7 @@ feature:
   - description: CodePipeline, GitLab CI, Jenkins, Bitrise
     icon: jenkins
     icon_pack: fab
-    name: CI/CD
+    name: CI/CD Tools
   - description: Ansible, CloudFormation, AWX/Tower, Puppet
     icon: code-branch
     icon_pack: fas
@@ -72,11 +72,11 @@ feature:
     icon: raspberry-pi
     icon_pack: fab
     name: SBCs & Electronics
-  - description: Docker, Compose, Portainer, Kubernetes, ECR
+  - description: Docker, Compose, Portainer, Kubernetes, LXC, ECR
     icon: docker
     icon_pack: fab
     name: Containerization
-  - description: VMWare, Proxmox, KVM, LXC, VirtualBox, Hyper-V
+  - description: VMWare, Proxmox, KVM, VirtualBox, Hyper-V
     icon: clone
     icon_pack: fas
     name: Virtualization
