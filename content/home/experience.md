@@ -32,10 +32,13 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * Serve as Lead Senior DevOps Engineer for the Assurant Emerging Channels team. Lead daily team standup & delegate work to other team members.
-        * Provision & manage original and all new AWS infrastructure for company B2B and B2C mobile insurance applications.
-        *	Write and maintain CloudFormation templates for creating and managing AWS infrastructure.
-        *	Create & manage CI/CD process for developers and Code Pipelines in AWS to assist developer team in deploying code to DEV, QA, UAT, and PROD environments.
+        * Serve as Lead Senior DevOps Engineer for the Assurant Emerging Channels team. Lead daily team standup & delegate work to other team members
+        * Provision & manage original and all new AWS infrastructure for company B2B and B2C mobile insurance applications
+        *	Write and maintain CloudFormation templates for creating and managing AWS infrastructure
+        *	Create & manage CI/CD process for developers and Code Pipelines in AWS to assist developer team in deploying code to DEV, QA, UAT, and PROD environments
+        * Perform ongoing security audits of AWS infrastructure using Qualys CloudView with immediate issue mitigation and/or resolution
+        * Write and securely deploy Ansible playbooks to propagate application changes to servers
+        * Document and maintain all SOPs, HOWTOs, and release notes in Confluence
 
   - title: Senior Linux System Administrator
     company: Punchkick Interactive
@@ -47,11 +50,12 @@ experience:
     description: |2-
         Responsibilities include:
 
-        * Serve as Lead Systems Administrator, IT Manager, office Safety Warden, and Help Desk support for the organization.
-        *	Develop architecture, built out, maintain, and scale application infrastructure for client projects.
-        * Install and maintain operating system applications, security, and patches for 150+ company and client servers.
-        *	Provision, configure, and maintain physical hardware & virtual servers used for internal network infrastructure and CI/CD.
-        *	Proactively maintain system integrity supporting change management, disaster recovery, and problem management.
+        * Served as Lead Systems Administrator, IT Manager, office Safety Warden, and Help Desk support for the organization
+        *	Developed architecture, built out, maintain, and scale application infrastructure for client projects
+        * Installed and maintained operating system applications, security, and patches for 150+ company and client servers
+        *	Provisioned, configured, and maintained physical hardware & virtual servers used for internal network infrastructure and CI/CD.
+        *	Proactively maintained system integrity supporting change management, disaster recovery, and problem management
+        * Created LEMP-based websites and RESTful APIs to assist in administration of local tools & procedures for managing employee accounts, server inventory, server backups, and server/application monitoring
 
 design:
   columns: '2'

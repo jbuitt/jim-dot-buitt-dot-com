@@ -64,4 +64,4 @@ email: 'jim.buitt@gmail.com'
 highlight_name: true
 ---
 
-Jim Buitt is currenty a Lead Senior DevOps Engineer at Assurant. He has 20+ years in the IT industry and a strong DevOps and Linux Administration background. He also maintains the website WxNotify, which is a free severe weather alerting service.
+Jim Buitt is currenty a Lead Senior DevOps Engineer at Assurant. He has 20+ years in the IT industry and a strong DevOps and Linux Administration background. He also created, developed, and actively maintains the website <a href="https://www.wxnotify.com">WxNotify</a>, a free severe weather alerting service for the United States.
