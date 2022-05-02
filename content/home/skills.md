@@ -55,7 +55,7 @@ feature:
   - description: Nagios, CloudWatch, New Relic, Sensu, Grafana
     icon: check
     icon_pack: fas
-    name: Monitoring
+    name: Monitoring Tools
   - description: MySQL, PostgreSQL, RDS Aurora, MongoDB, Oracle
     icon: database
     icon_pack: fas
