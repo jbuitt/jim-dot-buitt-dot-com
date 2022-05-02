@@ -40,11 +40,6 @@ feature:
     icon: linux
     icon_pack: fab
     name: Operating Systems
-# Uncomment to use emoji icons.
-#- icon: ":smile:"
-#  icon_pack: "emoji"
-#  name: "Emojiness"
-#  description: "100%"
   - description: Dell, HP, Synology, ZFS, LVM, iSCSI, NFS
     icon: server
     icon_pack: fas
@@ -65,26 +60,18 @@ feature:
     icon: database
     icon_pack: fas
     name: Databases
-  - description: Redis, Varnish, CloudFront, CloudFlare
+  - description: Redis, memcached, CloudFront, CloudFlare, MaxCDN
     icon: memory
     icon_pack: fas
-    name: Caches
-  - description: Atlassian, GitHub, Trello, Slack
+    name: Caches & CDNs
+  - description: JIRA, Confluence, GitHub, Trello, Slack, Miro
     icon: slack
     icon_pack: fab
     name: Cloud SaaS Tools
   - description: Raspberry Pi, Arduino, components & sensors
     icon: raspberry-pi
     icon_pack: fab
-    name: Electronics
-# Uncomment to use custom SVG icons.
-# Place your custom SVG icon in `assets/media/icons/`.
-# Reference the SVG icon name (without `.svg` extension) in the `icon` field.
-# For example, reference `assets/media/icons/xyz.svg` as `icon: 'xyz'`
-#- icon: "your-custom-icon-name"
-#  icon_pack: "custom"
-#  name: "Surfing"
-#  description: "90%"
+    name: SBCs & Electronics
   - description: Docker, Compose, Portainer, Kubernetes, ECR
     icon: docker
     icon_pack: fab
@@ -96,8 +83,8 @@ feature:
   - description: TCP/IP, cabling, switches, routers, Wi-Fi
     icon: network-wired
     icon_pack: fas
-    name: Networks
-  - description: Apache, nginx, curl, Wireshark, nmap, FireFox
+    name: Networking
+  - description: Apache, nginx, curl, Wireshark, nmap, FireFox, etc.
     icon: firefox
     icon_pack: fab
     name: Open Source Tools
