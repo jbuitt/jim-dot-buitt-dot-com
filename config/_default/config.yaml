@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: 'Website of Jim Buitt' # Website name - Leave blank!
-baseURL: 'https://jim.buitt.io/' # Website URL
+baseURL: 'https://jim.buitt.com/' # Website URL
 
 ############################
 ## LANGUAGE

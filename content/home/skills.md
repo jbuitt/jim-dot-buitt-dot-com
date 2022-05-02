@@ -20,7 +20,7 @@ feature:
     icon: code
     icon_pack: fas
     name: Languages
-  - description: Git, Vagrant, VS Code, Sonarqube, phpunit
+  - description: Git, Vagrant, VS Code, Sonarqube, Phpunit
     icon: git
     icon_pack: fab
     name: Development Tools
@@ -36,7 +36,7 @@ feature:
     icon: aws
     icon_pack: fab
     name: Amazon Web Services
-  - description: Ubuntu, Debian, AL2, RHEL, MacOS, Windows
+  - description: Ubuntu, Debian, AL2, RHEL, macOS, Windows
     icon: linux
     icon_pack: fab
     name: Operating Systems
@@ -56,11 +56,11 @@ feature:
     icon: check
     icon_pack: fas
     name: Monitoring
-  - description: MySQL, PostgreSQL, RDS Aurora, MongoDB
+  - description: MySQL, PostgreSQL, RDS Aurora, MongoDB, Oracle
     icon: database
     icon_pack: fas
     name: Databases
-  - description: Redis, memcached, CloudFront, CloudFlare, MaxCDN
+  - description: Redis, Memcached, CloudFront, CloudFlare, MaxCDN
     icon: memory
     icon_pack: fas
     name: Caches & CDNs
@@ -68,7 +68,7 @@ feature:
     icon: slack
     icon_pack: fab
     name: Cloud SaaS Tools
-  - description: Raspberry Pi, Arduino, components & sensors
+  - description: Raspberry Pi, Arduino, Components & Sensors
     icon: raspberry-pi
     icon_pack: fab
     name: SBCs & Electronics
@@ -76,11 +76,11 @@ feature:
     icon: docker
     icon_pack: fab
     name: Containerization
-  - description: VMWare, Proxmox, KVM, LXC, Vagrant 
+  - description: VMWare, Proxmox, KVM, LXC, VirtualBox, Hyper-V
     icon: clone
     icon_pack: fas
     name: Virtualization
-  - description: TCP/IP, cabling, switches, routers, Wi-Fi
+  - description: TCP/IP, Cabling, Switches, Routers, Wi-Fi
     icon: network-wired
     icon_pack: fas
     name: Networking
