@@ -16,11 +16,11 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-  - description: Shell scripting, Python, Perl, Regex, PHP, SQL
+  - description: Shell scripting, Python, Perl, Regex, PHP, SQL<br /><br />
     icon: code
     icon_pack: fas
     name: Languages
-  - description: Git, Vagrant, VS Code, Sonarqube, Phpunit
+  - description: Git, Vagrant, VS Code, Sonarqube, Phpunit, GNU Make
     icon: git
     icon_pack: fab
     name: Development Tools
@@ -28,7 +28,7 @@ feature:
     icon: laravel
     icon_pack: fab
     name: Web Coding
-  - description: SSL/TLS, VPNs, SSH, Firewalls, Snort, OWASP Top 10
+  - description: SSL/TLS, VPNs, SSH, Firewalls, Snort, OWASP Top 10<br /><br />
     icon: lock
     icon_pack: fas
     name: Network Security
@@ -40,15 +40,15 @@ feature:
     icon: linux
     icon_pack: fab
     name: Operating Systems
-  - description: Dell, HP, Synology, ZFS, LVM, iSCSI, RAID, NFS
-    icon: server
+  - description: Synology, ZFS, LVM, iSCSI, RAID, NFS, GlusterFS
+    icon: hard-drive
     icon_pack: fas
-    name: Servers & Storage
+    name: Storage
   - description: CodeBuild & CodePipeline, GitLab CI, Jenkins, Bitrise
-    icon: jenkins
+    icon: gitlab
     icon_pack: fab
     name: CI/CD Tools
-  - description: Ansible, CloudFormation, AWX/Tower, Puppet
+  - description: Ansible, CloudFormation, AWX/Tower, Puppet<br /><br />
     icon: code-branch
     icon_pack: fas
     name: Config Management
@@ -56,11 +56,11 @@ feature:
     icon: check
     icon_pack: fas
     name: Monitoring Tools
-  - description: MySQL, PostgreSQL, RDS Aurora, MongoDB, Oracle
+  - description: MySQL, PostgreSQL, RDS, MongoDB, OpenLDAP
     icon: database
     icon_pack: fas
     name: Databases
-  - description: Redis, Memcached, CloudFront, CloudFlare, MaxCDN
+  - description: Redis, Memcached, CloudFront, CloudFlare, MaxCDN<br /><br />
     icon: memory
     icon_pack: fas
     name: Caches & CDNs
@@ -72,7 +72,7 @@ feature:
     icon: raspberry-pi
     icon_pack: fab
     name: SBCs & Electronics
-  - description: Docker, Compose, Portainer, Kubernetes, LXC, ECR
+  - description: Docker, Compose, Portainer, Kubernetes, LXC, ECR<br /><br />
     icon: docker
     icon_pack: fab
     name: Containerization
@@ -80,11 +80,11 @@ feature:
     icon: clone
     icon_pack: fas
     name: Virtualization
-  - description: TCP/IP, Ethernet, DNS, DHCP, SSH, NFS, Wi-Fi
+  - description: TCP/IP, Ethernet, DNS, DHCP, SMTP, SSH, NFS, Wi-Fi
     icon: network-wired
     icon_pack: fas
     name: Networking
-  - description: Apache, nginx, curl, Wireshark, nmap, FireFox, etc.
+  - description: Apache, nginx, curl, Wireshark, nmap, FireFox, etc.<br /><br />
     icon: firefox
     icon_pack: fab
     name: Open Source Tools
