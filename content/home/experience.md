@@ -22,6 +22,16 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: DevOps Engineer
+    company: Trovata
+    company_url: 'https://trovata.io'
+    company_logo: trovata
+    location: Chicago, IL
+    date_start: '2022-06-01'
+    date_end: ''
+    description: |2-
+        Responsibilities coming soon
+
   - title: Senior DevOps Engineer
     company: Assurant
     company_url: 'https://www.assurant.com'

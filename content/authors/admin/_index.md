@@ -6,12 +6,12 @@ title: Jim Buitt
 superuser: true
 
 # Role/position/tagline
-role: Lead Senior DevOps Engineer
+role: DevOps Engineer
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Assurant
-    url: https://www.assurant.com/
+  - name: Trovata
+    url: https://trovata.io/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My interests include open-source software, managing his home testing lab, and meteorology.
@@ -64,4 +64,4 @@ email: 'jim.buitt@gmail.com'
 highlight_name: true
 ---
 
-Jim Buitt is currenty a Lead Senior DevOps Engineer at Assurant. He has 20+ years in the IT industry and a strong DevOps and Linux Administration background. He also created, developed, and actively maintains the website <a href="https://www.wxnotify.com">WxNotify</a>, a free severe weather alerting service for the United States.
+Jim Buitt is currenty a DevOps Engineer at Trovata. He has 20+ years in the IT industry and a strong DevOps and Linux Administration background. He also created, developed, and actively maintains the website <a href="https://www.wxnotify.com">WxNotify</a>, a free severe weather alerting service for the United States.
