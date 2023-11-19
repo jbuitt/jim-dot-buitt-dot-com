@@ -37,8 +37,10 @@ experience:
         *	Write and maintain CloudFormation templates and shell scripts for creating and managing AWS infrastructure
         *	Create & manage CI/CD process for developers and Code Pipelines in AWS to assist developer team in deploying code to DEV, BETA, UAT, and PROD environments
         * Perform ongoing security audits of AWS infrastructure using Crowdstrike CSPM with immediate issue mitigation and/or resolution
-        * Building out Business Systems by using Tray.io tool to integrate web application with Salesforce, Hubspot, and JIRA ticketing platform
+        * Building out Business Systems by using Tray.io cloud tool to integrate web application with Salesforce, Hubspot, and JIRA ticketing platform
         * Document and maintain all SOPs, HOWTOs, and release notes in Confluence
+        * Build out infrastructure for hosting SAP in AWS
+        * Assist Marketing Team with building out infrastructure for hosting Trovata website
 
   - title: Senior DevOps Engineer
     company: Assurant

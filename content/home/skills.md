@@ -64,7 +64,7 @@ feature:
     icon: memory
     icon_pack: fas
     name: Caches & CDNs
-  - description: JIRA, Confluence, GitHub, Trello, Miro
+  - description: Tray.io, JIRA, Confluence, GitHub, Trello, Miro
     icon: github
     icon_pack: fab
     name: Cloud SaaS Tools
