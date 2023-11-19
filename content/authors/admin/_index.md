@@ -6,7 +6,7 @@ title: Jim Buitt
 superuser: true
 
 # Role/position/tagline
-role: DevOps Engineer
+role: Senior Software Engineer
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -64,4 +64,4 @@ email: 'jim.buitt@gmail.com'
 highlight_name: true
 ---
 
-Jim Buitt is currenty a DevOps Engineer at Trovata. He has 20+ years in the IT industry and a strong DevOps and Linux Administration background. He also created, developed, and actively maintains the website <a href="https://www.wxnotify.com">WxNotify</a>, a free severe weather alerting service for the United States.
+Jim Buitt is currenty a Senior Software Engineer at Trovata. He has 20+ years in the IT industry and a strong DevOps and Linux Administration background. He also created, developed, and actively maintains the website <a href="https://www.wxnotify.com">WxNotify</a>, a free severe weather alerting service for the United States.
