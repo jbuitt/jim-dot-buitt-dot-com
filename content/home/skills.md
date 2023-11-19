@@ -96,8 +96,12 @@ feature:
     icon: digital-ocean
     icon_pack: fab
     name: PaaS Services
-  - description: Microsoft Office, Teams, Slack, LastPass, Bitwarden
+  - description: Microsoft Office, Teams, Slack, LastPass, 1Password, Bitwarden
     icon: slack
     icon_pack: fab
     name: Productivity Tools
+  - description: Salesforce, Hubspot, ZoomInfo
+    icon: salesforce
+    icon_pack: fab
+    name: Customer Relationship Management
 ---
