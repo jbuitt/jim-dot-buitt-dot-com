@@ -30,7 +30,15 @@ experience:
     date_start: '2022-06-01'
     date_end: ''
     description: |2-
-        Responsibilities coming soon
+        Responsibilities include:
+
+        * Senior Software Engineer, for the Systems Engineering team, responsible for the Trovata application cloud infrastructure
+        * Provision & manage original and new AWS infrastructure for company application
+        *	Write and maintain CloudFormation templates and shell scripts for creating and managing AWS infrastructure
+        *	Create & manage CI/CD process for developers and Code Pipelines in AWS to assist developer team in deploying code to DEV, BETA, UAT, and PROD environments
+        * Perform ongoing security audits of AWS infrastructure using Crowdstrike CSPM with immediate issue mitigation and/or resolution
+        * Building out Business Systems by using Tray.io tool to integrate web application with Salesforce, Hubspot, and JIRA ticketing platform
+        * Document and maintain all SOPs, HOWTOs, and release notes in Confluence
 
   - title: Senior DevOps Engineer
     company: Assurant
@@ -38,7 +46,7 @@ experience:
     company_logo: assurant
     location: Chicago, IL
     date_start: '2019-12-10'
-    date_end: ''
+    date_end: '2022-06-01'
     description: |2-
         Responsibilities include:
         
